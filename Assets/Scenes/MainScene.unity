@@ -1786,6 +1786,34 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3787807418035770241, guid: 4f13c956f2c771542a07a197a4d6fdf5, type: 3}
+      propertyPath: m_MovementType
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3787807418035770241, guid: 4f13c956f2c771542a07a197a4d6fdf5, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3787807418035770241, guid: 4f13c956f2c771542a07a197a4d6fdf5, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3787807418035770241, guid: 4f13c956f2c771542a07a197a4d6fdf5, type: 3}
+      propertyPath: m_TightenPosition
+      value: 0.251
+      objectReference: {fileID: 0}
+    - target: {fileID: 3787807418035770241, guid: 4f13c956f2c771542a07a197a4d6fdf5, type: 3}
+      propertyPath: m_TightenRotation
+      value: 0.245
+      objectReference: {fileID: 0}
+    - target: {fileID: 3787807418035770241, guid: 4f13c956f2c771542a07a197a4d6fdf5, type: 3}
+      propertyPath: m_InteractionManager
+      value: 
+      objectReference: {fileID: 103994692}
+    - target: {fileID: 3787807418035770241, guid: 4f13c956f2c771542a07a197a4d6fdf5, type: 3}
+      propertyPath: m_InteractionLayerMask.m_Bits
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4f13c956f2c771542a07a197a4d6fdf5, type: 3}
 --- !u!1001 &1245837145
