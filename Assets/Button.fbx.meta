@@ -1,8 +1,11 @@
 fileFormatVersion: 2
-guid: 04562f6c324487943895c14f7a3cdcd9
+guid: 62c0dabb422d1b1479f955b497a7d1ae
 ModelImporter:
   serializedVersion: 20200
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      74: -4853450074992958680
+    second: Button|ButtonAction
   externalObjects:
   - first:
       type: UnityEngine:Material
